@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[To My Son]]></title>
+    <url>%2F2018%2F09%2F26%2Ftomyson%2F</url>
+    <content type="text"><![CDATA[Hi，儿子们！欢迎来到爸爸的博客,有事找我请留言。PS:点击屏幕有爸爸的爱心。]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>瞎折腾</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[别友人]]></title>
+    <url>%2F2018%2F09%2F26%2Fname%2F</url>
+    <content type="text"><![CDATA[别友人龙戚戚兮将欲行，风萧萧兮雨霖铃，梦游官渡八声笑，身向王母四季晴。纪念友人,写于二零一八年玖月拾日]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
+        <tag>文化</tag>
+        <tag>瞎折腾</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018%2F09%2F25%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+      <categories>
+        <category>其他</category>
+      </categories>
+  </entry>
+</search>
