@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://yoursite.com/2018/09/30/Welcome-to-my-blog/</loc>
+    <loc>https://herongcan.github.io/2018/09/30/Welcome-to-my-blog/</loc>
     <lastmod>2018-09-30T09:02:08.417Z</lastmod>
   </url>  <url>
-    <loc>http://yoursite.com/2018/09/26/name/</loc>
+    <loc>https://herongcan.github.io/2018/09/26/name/</loc>
     <lastmod>2018-09-27T03:29:59.719Z</lastmod>
   </url>  <url>
-    <loc>http://yoursite.com/2018/09/25/hello-world/</loc>
+    <loc>https://herongcan.github.io/2018/09/25/hello-world/</loc>
     <lastmod>2018-09-26T09:45:43.992Z</lastmod>
   </url>
 </urlset>
