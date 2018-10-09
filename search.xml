@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title><![CDATA[Welcome to my blog!]]></title>
-    <url>%2F2018%2F09%2F30%2FWelcome-to-my-blog%2F</url>
+    <url>%2FWelcome-to-my-blog.html</url>
     <content type="text"><![CDATA[Hi！朋友们！ 在本博客采用NexT-Pisces主题，并于2018-09-30完成自定义样式美化。引入在线联系，播放网易云音乐、来必力评论等功能插件，已实现个人博客基本功能。]]></content>
       <categories>
         <category>生活</category>
@@ -13,7 +13,7 @@
   </entry>
   <entry>
     <title><![CDATA[别友人]]></title>
-    <url>%2F2018%2F09%2F26%2Fname%2F</url>
+    <url>%2Fname.html</url>
     <content type="text"><![CDATA[龙儿戚戚将欲行，风逍遥兮雨霖铃，神回官渡一声啸，身向王母四季晴。]]></content>
       <categories>
         <category>生活</category>
@@ -26,7 +26,7 @@
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>
-    <url>%2F2018%2F09%2F25%2Fhello-world%2F</url>
+    <url>%2Fhello-world.html</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
       <categories>
         <category>其他</category>
