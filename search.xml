@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[Welcome to my blog!]]></title>
     <url>%2FWelcome-to-my-blog.html</url>
-    <content type="text"><![CDATA[Hi！朋友们！ 在本博客采用NexT-Pisces主题，并于2018-09-30完成自定义样式美化。引入在线联系，播放网易云音乐、来必力评论等功能插件，已实现个人博客基本功能。]]></content>
+    <content type="text"><![CDATA[本博客采用NexT-Pisces主题，自定义样式美化。引入在线联系，播放网易云音乐、来必力评论、百度分享等功能插件，可进行站内检索，可统计到访人数。能够通过百度、谷歌进行关键字搜索，以上是博客基本功能。]]></content>
       <categories>
         <category>生活</category>
       </categories>
