@@ -118,7 +118,7 @@
 <meta property="og:description" content="关于Java杂七杂八随便写">
 <meta property="og:locale" content="zh-Hans">
 <meta property="og:image" content="https://github.com/herongcan/herongcan.github.io/blob/master/images/touxiang.png">
-<meta property="og:updated_time" content="2019-02-26T06:41:07.275Z">
+<meta property="og:updated_time" content="2019-03-01T08:43:54.942Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="开发草稿1">
 <meta name="twitter:description" content="关于Java杂七杂八随便写">
@@ -476,7 +476,7 @@
 
       
         <h2 id="导入spring-源码包报错"><a href="#导入spring-源码包报错" class="headerlink" title="导入spring 源码包报错:"></a>导入spring 源码包报错:</h2><p>The newly created daemon process has a different context than expected. Java<br>Please configure the JDK to match the expected one.<br>将jdk文件夹中子目录jre 里面的lib里面的tool.jar 删除即可</p>
-<h2 id="彻底删除mysql服务"><a href="#彻底删除mysql服务" class="headerlink" title="彻底删除mysql服务"></a>彻底删除mysql服务</h2><h4 id="1-控制面板卸载"><a href="#1-控制面板卸载" class="headerlink" title="1.控制面板卸载"></a>1.控制面板卸载</h4><h4 id="2-注册表删除"><a href="#2-注册表删除" class="headerlink" title="2.注册表删除"></a>2.注册表删除</h4><p>2.1、HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\Eventlog\Application\MySQL<br>2.2、HKEY_LOCAL_MACHINE\SYSTEM\ControlSetXXX\Services\Eventlog\Application\MySQL<br>2.3、HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Eventlog\Application\MySQL </p>
+<h2 id="彻底删除mysql服务"><a href="#彻底删除mysql服务" class="headerlink" title="彻底删除mysql服务"></a>彻底删除mysql服务</h2><h4 id="1-控制面板卸载"><a href="#1-控制面板卸载" class="headerlink" title="1.控制面板卸载"></a>1.控制面板卸载</h4><h4 id="2-注册表删除"><a href="#2-注册表删除" class="headerlink" title="2.注册表删除"></a>2.注册表删除</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">2.1、HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\Eventlog\Application\MySQL </span><br><span class="line">2.2、HKEY_LOCAL_MACHINE\SYSTEM\ControlSetXXX\Services\Eventlog\Application\MySQL</span><br><span class="line">2.3、HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Eventlog\Application\MySQL</span><br></pre></td></tr></table></figure>
 <h4 id="3-命令行删除服务"><a href="#3-命令行删除服务" class="headerlink" title="3.命令行删除服务"></a>3.命令行删除服务</h4><p>  win+R, 在命令行中输入sc delete MySQL(这里写服务名),举一反三其他服务的删除如是</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">安装mysql服务推荐使用非绿色版</span><br><span class="line">my.ini文件中配置了mysql安装目录, 以及data目录, 分别是basedir和datadir</span><br><span class="line">参考链接:https://blog.csdn.net/mingtianhaiyouwo/article/details/50387582</span><br></pre></td></tr></table></figure>
 <h2 id="运行vue项目报错"><a href="#运行vue项目报错" class="headerlink" title="运行vue项目报错:"></a>运行vue项目报错:</h2><p>Error: Cannot find module ‘semver’Error: Cannot find module ‘semver’.<br>Error: Cannot find module ‘chalk’<br>直接将整个模块删除掉，然后重新 npm install(新导入的项目都应该要执行这个指令)</p>
@@ -566,6 +566,10 @@
           <span class="post-nav-divider"></span>
 
           <div class="post-nav-prev post-nav-item">
+            
+              <a href="/myBlog.html" rel="prev" title="myBlog">
+                myBlog <i class="fa fa-chevron-right"></i>
+              </a>
             
           </div>
         </div>
@@ -671,7 +675,7 @@
               
                 <a href="/archives/">
               
-                  <span class="site-state-item-count">4</span>
+                  <span class="site-state-item-count">6</span>
                   <span class="site-state-item-name">日志</span>
                 </a>
               </div>
@@ -808,7 +812,7 @@
     
       <span class="post-meta-item-text">Site words total count&#58;</span>
     
-    <span title="Site words total count">1.5k</span>
+    <span title="Site words total count">3.4k</span>
   
 
           
